@@ -1,4 +1,4 @@
-**PhonePe Transaction Analysis Project.**
+# **PhonePe Transaction Analysis Project.**
 This project analyzes PhonePe transaction data across Indian states from 2018 to 2024. The data is extracted from the official PhonePe Pulse GitHub repo.
 
 ## Key Tasks:
